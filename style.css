@@ -1,0 +1,15 @@
+img{height: 400px; width: 400px;padding-left: 40px;border-radius: 70px;padding-top: 20px;}
+section{display: flex;text-align: justify;margin-top: 40px;}
+spen{color: orange;}
+button{background-color: rgb(216, 99, 124); padding: 20px;border-radius: 30px;}
+a{text-decoration: none;}
+div{margin-left: 40px;}
+h1{padding: 10px;font-size: 50px;}
+p{font-size: 30px;}
+.second{padding-right: 40px;}
+article{text-align: center;}
+.food{box-shadow: 20px 20px 40px gray;border-radius: 40px;}
+.food p{padding: 10px;}
+.food h1{text-align: center;}
+footer{background-color: black;}
+.net{color: white;text-align: center;}
